@@ -1,4 +1,3 @@
-// script.js
 document.getElementById('generate').addEventListener('click', function() {
     const length = document.getElementById('length').value;
     const includeUppercase = document.getElementById('include-uppercase').checked;
